@@ -1,0 +1,19 @@
+{
+  "name": "ccxt_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/friend1ws/ccxt_test.git"
+  },
+  "author": "Yuichi Shiraishi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/friend1ws/ccxt_test/issues"
+  },
+  "homepage": "https://github.com/friend1ws/ccxt_test#readme"
+}
